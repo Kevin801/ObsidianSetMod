@@ -1,0 +1,7 @@
+{
+   "parent": "block/cube_all",
+   "textures": 
+   {
+       "all": "km:blocks/obsidian_brick_block"
+   }
+}

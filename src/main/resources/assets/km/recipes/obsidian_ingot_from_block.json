@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    
+    "ingredients": 
+    [
+        {
+            "item": "km:obsidian_brick_block"
+        }
+    ],
+    
+    "result": 
+    {
+        "item": "km:obsidian_ingot",    
+        "count": 2
+    }
+}

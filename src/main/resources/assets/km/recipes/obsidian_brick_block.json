@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern": 
+    [
+        "##",
+        "##"
+    ],
+    
+    "key": 
+    {
+        "#": 
+        {
+            "item": "km:obsidian_ingot"
+        }
+    },
+    
+    "result": 
+    {
+        "item": "km:obsidian_brick_block"    
+    }
+}

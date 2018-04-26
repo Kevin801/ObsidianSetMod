@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern": 
+    [
+        "###",
+        " I ",
+        " I "
+    ],
+    
+    "key": 
+    {
+        "#": 
+        {
+            "item": "km:obsidian_ingot"
+        },
+        "I": 
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result": 
+    {
+        "item": "km:obsidian_pickaxe"    
+    }
+}
